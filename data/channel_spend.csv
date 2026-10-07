@@ -1,0 +1,7 @@
+channel,spend,spend_source
+Programmatic,13200,Simulated: DV360 + TTD + Display share (44%) of $30k
+Meta Ads,9000,Simulated: Meta share (30%) of $30k
+Google Search (Generic),6000,Simulated: Search share (20%) of $30k
+Google Search (Brand),1800,Simulated: Search share (6%) of $30k
+Email,600,Assumed: ESP + creative cost
+Organic / SEO,1500,Assumed: content + tooling cost
